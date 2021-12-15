@@ -30,7 +30,7 @@
 /* hero image css */
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/Hero.jpg");
-  height: 500px;
+  height: 700px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -68,6 +68,7 @@ padding-bottom: 50px;
 
 .grid-container .flex {
   width: 32%;
+  border: 1px solid black;
 }
 
 @media (max-width: 800px) {
