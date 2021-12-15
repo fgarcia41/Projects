@@ -49,8 +49,10 @@ width: 100%;
 }
 
 .img-container{
-  height: 60%;
-  margin: auto;
+  height: 50%;
+  margin: 25px auto;
+  width: 50%;
+  
 }
 
 .best-selling h1 {
